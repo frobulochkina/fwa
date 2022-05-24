@@ -91,7 +91,7 @@
     </div>
 
     <div class="container signup">
-        <p>Don't you have an account yet? <a href="SignIn.jsp">Sign in</a>.</p>
+        <p>Don't you have an account yet? <a href='SignIn'>Sign in</a>.</p>
     </div>
 </form>
 

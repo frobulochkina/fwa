@@ -85,7 +85,7 @@
     </div>
 
     <div class="container signup">
-        <p>Don't you have an account yet? <a href="SignUp.jsp">Sign up</a>.</p>
+        <p>Don't you have an account yet? <a href='SignUp'>Sign up</a>.</p>
     </div>
 </form>
 
